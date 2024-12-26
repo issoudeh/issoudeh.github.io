@@ -1,0 +1,81 @@
+= Deviens Créateur de Contenu Gaming !
+:author: Cheroliv
+:revdate: 2024-12-24
+:description: Guide pour débuter dans le streaming de jeux vidéo
+:keywords: gaming, streaming, twitch, youtube, création de contenu
+:doctype: article
+:icons: font
+:source-highlighter: highlight.js
+:toc: left
+:sectlinks:
+:sectnums:
+
+== Introduction
+
+Tu aimes les jeux vidéo et tu voudrais partager ta passion ? Ce guide t'expliquera comment devenir créateur de contenu gaming, que ce soit sur Windows, Mac ou Linux.
+
+[NOTE]
+====
+Pas besoin d'être un expert en informatique pour commencer !
+====
+
+== Qu'est-ce qu'un Créateur de Contenu Gaming ?
+
+.Un créateur de contenu gaming, c'est quelqu'un qui :
+* Fait des vidéos de ses parties de jeux
+* Partage ses aventures sur internet
+* Crée une communauté autour de sa passion
+* S'amuse tout en apprenant
+
+== Les Outils Nécessaires
+
+=== Matériel de Base
+* Un ordinateur (Windows, Mac ou Linux)
+* Une connexion internet stable
+* Un micro (celui du casque suffit pour débuter)
+
+=== Logiciels et Plateformes
+* OBS pour l'enregistrement
+* Twitch pour le direct
+* YouTube pour les vidéos
+* Discord pour la communauté
+* TikTok pour les courts extraits
+
+[IMPORTANT]
+====
+Demande toujours l'accord de tes parents avant de commencer !
+====
+
+== Conseils pour Bien Démarrer
+
+.Les bases du streaming
+* Choisis des jeux que tu aimes vraiment
+* Reste naturel(le)
+* Prends ton temps pour progresser
+* Amuse-toi avant tout !
+
+== Sécurité et Bon Sens
+
+[WARNING]
+====
+* Ne partage jamais d'informations personnelles
+* Reste respectueux avec les autres
+* Fais des pauses régulières
+====
+
+== Pour Aller Plus Loin
+
+.Quand tu seras plus à l'aise
+* Améliore la qualité de ton stream
+* Crée des miniatures attractives
+* Organise des événements communautaires
+* Collabore avec d'autres créateurs
+
+== Conclusion
+
+Créer du contenu gaming est une aventure passionnante ! Commence petit, progresse à ton rythme et surtout, amuse-toi ! icon:gamepad[]
+
+[TIP]
+====
+N'hésite pas à demander de l'aide à ta communauté ou à tes parents si tu en as besoin !
+====
